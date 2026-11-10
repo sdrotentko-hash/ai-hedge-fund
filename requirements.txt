@@ -1,0 +1,6 @@
+python-telegram-bot==20.7
+ccxt==4.1.80
+pandas==2.1.4
+numpy==1.26.3
+aiohttp==3.9.1
+matplotlib==3.8.2
